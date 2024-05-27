@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "nombre": "Café Mexicano Gourmet",
+        "descripcion": "Mexicano Café Mexicano Regular 908, Café, 908 Gramos.",
+        "precio": "237",
+        "imagen": "IMGS/1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Aromas Del Paraíso",
+        "descripcion": "Café de Especialidad Aromas Del Paraíso 1 Kilo",
+        "precio": "290",
+        "imagen": "IMGS/2.PNG"
+    },
+    {
+        "id": "3",
+        "nombre": "CAGSTIN",
+        "descripcion": "FINCA CAGSTIN, CAFÉ DE ESPECIALIDAD",
+        "precio": "560",
+        "imagen": "IMGS/3.PNG"
+    },
+    {
+        "id": "4",
+        "nombre": "BACIO",
+        "descripcion": "Café en Grano, Qualita Speciale 1 Kilo, Café de Especialidad, Café Mexicano, Tueste italiano, Café Veracruzano, Café Gourmet",
+        "precio": "388",
+        "imagen": "IMGS/4.PNG"
+    },
+    {
+        "id": "5",
+        "nombre": "CAFÉ DE OAXACA",
+        "descripcion": "CAFÉ DE OAXACA, FINCA CHELÍN, PROCESO BLACK HONEY, EDICIÓN ESPECIAL.",
+        "precio": "1200",
+        "imagen": "IMGS/5.PNG"
+    },
+    {
+        "id": "6",
+        "nombre": "LAVADO TYPICA Funky",
+        "descripcion": "Café Mexicano, Veracruz, Typica Lavado, En Grano, Bolsa 1kg.",
+        "precio": "480",
+        "imagen": "IMGS/6.PNG"
+    },
+    {
+        "id": "7",
+        "nombre": "LA PARROQUIA DE VERACRUZ",
+        "descripcion": " Bolsa de Café Molido, Tostado y Tradicional, 430 g, Café Puro 100%, Elaborado con Alta Calidad, Café con Aroma Intenso y Agradable, Cuerpo Completo",
+        "precio": "139",
+        "imagen": "IMGS/7.PNG"
+    },
+    {
+        "id": "8",
+        "nombre": "Solo Dios Café",
+        "descripcion": "Café Solo Dios Café en Grano, Sabor Artesanal, 1 Kg",
+        "precio": "310",
+        "imagen": "IMGS/8.PNG"
+    },
+    {
+        "id": "9",
+        "nombre": "Cafe Mixtla",
+        "descripcion": "Café en grano - 100% Arábica - Tueste Medio - Café de Altura - Mexicano de la Sierra Negra de Puebla - 500 Gr.",
+        "precio": "349",
+        "imagen": "IMGS/9.PNG"
+    },
+    {
+        "id": "10",
+        "nombre": "La Colombe Bleu Café",
+        "descripcion": "Café en grano entero tostado oscuro, 12 onzas, 1 paquete, notas de cacao, macadamia y crema dulce con frijoles de Honduras, Nicaragua y Perú",
+        "precio": "1409",
+        "imagen": "IMGS/10.PNG"
+    }
+]
